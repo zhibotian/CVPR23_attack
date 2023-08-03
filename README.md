@@ -3,7 +3,7 @@
 1. [Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning](https://arxiv.org/pdf/2304.01482.pdf)
 2. [Re-thinking Model Inversion Attacks Against Deep Neural Networks](https://arxiv.org/pdf/2304.01669.pdf)
 3. [T-SEA: Transfer-Based Self-Ensemble Attack on Object Detection](https://arxiv.org/pdf/2211.09773.pdf)
-4. [Robust Single Image Reflection Removal Against Adversarial Attacks Poster Session](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.pdf)
+4. [Robust Single Image Reflection Removal Against Adversarial Attacks](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.pdf)
 5. [Dynamic Generative Targeted Attacks With Pattern Injection](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Dynamic_Generative_Targeted_Attacks_With_Pattern_Injection_CVPR_2023_paper.pdf)
 6. [Minimizing Maximum Model Discrepancy for Transferable Black-Box Targeted Attacks](https://arxiv.org/pdf/2212.09035.pdf)
 7. [Efficient Loss Function by Minimizing the Detrimental Effect of Floating-Point Errors on Gradient-Based Attacks](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Efficient_Loss_Function_by_Minimizing_the_Detrimental_Effect_of_Floating-Point_CVPR_2023_paper.pdf)
