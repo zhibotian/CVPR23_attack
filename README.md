@@ -29,5 +29,3 @@
 27. [Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack](https://arxiv.org/pdf/2304.11436.pdf)
 28. [Sibling-Attack: Rethinking Transferable Adversarial Attacks Against Face Recognition](https://arxiv.org/pdf/2303.12512.pdf)
 29. [Effective Ambiguity Attack Against Passport-Based DNN Intellectual Property Protection Schemes Through Fully Connected Layer Substitution Poster Session TUE-PM](https://arxiv.org/pdf/2303.11595.pdf)
-
-These links should now be clickable if you paste them into a markdown-compatible environment.
