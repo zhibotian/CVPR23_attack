@@ -1,5 +1,4 @@
 # CVPR23_attack
-Sure! Here are the links in markdown format:
 
 1. [Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning](https://arxiv.org/pdf/2304.01482.pdf)
 2. [Re-thinking Model Inversion Attacks Against Deep Neural Networks](https://arxiv.org/pdf/2304.01669.pdf)
